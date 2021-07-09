@@ -1,5 +1,5 @@
 ﻿# Raspberry Pi Image Recognition
-I am using a camera connected to my raspberry pi to identify images and objects.
+I am using Raspberry Pi to identify images and objects. These images are portrayed through a camera connected to the Raspberry Pi
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
