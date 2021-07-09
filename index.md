@@ -1,5 +1,5 @@
 ﻿# Raspberry Pi Image Recognition
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+I am using a camera connected to my raspberry pi to identify images and objects.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
