@@ -3,7 +3,7 @@ I am using a camera connected to my raspberry pi to identify images and objects.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Aryan Wadhwa | Greenwich High School | Electrical Engineering / Computer Science | Incoming Junior
+| Aryan | Greenwich High School | Electrical Engineering / Computer Science | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
