@@ -1,5 +1,5 @@
 ﻿# Raspberry Pi Object Recognition
-I am using Raspberry Pi to identify objects through video, webcam, and images. I used TensorFlow 
+I am using Raspberry Pi to identify objects through video, webcam, and images. I used TensorFlow Lite to train my Object Detection models
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -19,6 +19,6 @@ My second milestone is detecting object on my Raspberry Pi. I installed mutiple 
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my monitor/pc. The heatsinks, the sd card, and the nessecary cables were all added to ensure that the Raspberry Pi was working. I downloaded Raspberry Pi imager directly from the official Raspberry Pi website. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspberry Pi OS supported by the Raspberry Pi. The imager allowed me to image Debian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi, connected my HDMI cable and rebooted the system until Debian booted up. I then enabled VNC on the Raspberry Pi so that I was able to use VNC Viewer on my desktop to work on my Raspberry Pi.
+My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my monitor/pc. The heatsinks, the sd card, and the nessecary cables were all added to ensure that the Raspberry Pi was working. I downloaded Raspberry Pi imager directly from the official Raspberry Pi website. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspberry Pi OS supported by the Raspberry Pi. The imager allowed me to image Raspian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi, connected my HDMI cable and rebooted the system until Raspian booted up. I then enabled VNC on the Raspberry Pi so that I was able to use VNC Viewer on my desktop to work on my Raspberry Pi.
 
 [![First Milestone](https://lh3.googleusercontent.com/_wXwEU_F7sD78GYUe3O10PFZT3KfQwlManW24Yry6f9qG1YOVGnXoQ_58HoHlZ0B52P2z9S0FUo4ljk_2jq7uXyZkdhS72_wa2u3nbErj24j2HHZIp3wLFOxYcO4dMDi7QHTINaOyfvGJIrzyIRi25WFqjORsZOPBnIFwsaPddwcpn4PuWjDnMY8T1sXnMW6s1zdZ1R5QkCA2kZMvkCehWWjFve5MqrATHEoTVgxWWztRxEl11yBWDBToLYloagKDmBKrVr1EPhmdZx-bPXspOizgif5W1idTJxjyzB7prHZbR93Fo8t_Ai38gT6-v0OeOpnyE4B0jTyOpWzNgSTOttEePApznpGbnyLR7tXEG8JxVe98xDZf7FtPm4CiTlNoc3U_MzOkuqsXrRoIX1rIzsJO9u3F7yRtzetYABL_6_r33gFzz8H-RDNWBIohgGov5B36UNsC3AhAdy8AJjEbmoNE2TnaA3rBSd-Mw35J9vXJgFqDLJgMcaAITnbYQZA5elns8hxGarB6FbgEidvdoNZc15kmziOizZg6vRaka95eK-5BZvC9w-ND_lpsTsejhtAYcsYeYM7FvAyCSG1j7-WM6cP3QyPy9LtWKop5ur5xiuT17YC4ltJtmrs03SZQVz3plcxveE-msugzLZjoTlJmrjEUK4dHtNcx0170GOrmkzusvOS13g8hty8sKzsByKGgBmAo5Bu9jbj42pS--PU=w1292-h970-no?authuser=0)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone")
