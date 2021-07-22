@@ -5,7 +5,7 @@ I am using Raspberry Pi to identify objects through video, webcam, and images. I
 |:--:|:--:|:--:|:--:|
 | Aryan | Greenwich High School | Electrical Engineering / Computer Science | Incoming Junior
 
-![Welcome Aboard Gif] <img src="https://media.giphy.com/media/ggtpYV17RP9lTbc542/giphy.gif" width="300" height="300" />
+! [Welcome Aboard Gif] <img src="https://media.giphy.com/media/ggtpYV17RP9lTbc542/giphy.gif" width="300" height="300" />
 
 ![Headstone Image](https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/bf5f1f07ed1242386322cdefa49b76589c390b3f/deer.jpg)
   
