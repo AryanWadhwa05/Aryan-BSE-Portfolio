@@ -7,7 +7,7 @@ I am using Raspberry Pi to identify objects through video, webcam, and images. I
 
 TFLite model             |  My Custom Model
 :-------------------------:|:-------------------------:
-<img src=https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/5a6b2576ae07f4cc13a81243740414c937cad8c3/squirrelssample.JPG width="325" height="100" />  |  <img src=https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/5bd5903d4b4e868f8a7a6c4a62265d900ca3432e/Capture.JPG width="325" height="100" />
+<img src=https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/5a6b2576ae07f4cc13a81243740414c937cad8c3/squirrelssample.JPG width="350" height="200" />  |  <img src=https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/5bd5903d4b4e868f8a7a6c4a62265d900ca3432e/Capture.JPG width="350" height="200" />
  
 # Final Milestone
 My final milestone is the implemention of a few object detection model. I used a TensorFlow Lite Model Maker google colab notebook to help guide me upload a object detection dataset and split it into training and testing data. I was able to set up my dataset finding images ont he internet and drawing boxes with labels around the object I want to detect for the computer to recognize. I used and imported the TensorFlow Lite library which makes training and testing a model much easier with only a few lines of code.
