@@ -10,7 +10,7 @@ I am using Raspberry Pi to identify objects through video, webcam, and images. I
 # Final Milestone
 My final milestone is the implemention of a few object detection model. I used a TensorFlow Lite Model Maker google colab notebook to help guide me upload a object detection dataset and split it into training and testing data. I was able to set up my dataset finding images ont he internet and drawing boxes with labels around the object I want to detect for the computer to recognize. I used and imported the TensorFlow Lite library which makes training and testing a model much easier with only a few lines of code.
 
-```
+```python
 import numpy as np
 import os
 
