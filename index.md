@@ -8,7 +8,9 @@ I am using Raspberry Pi to identify objects through video, webcam, and images. I
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <img src="https://media.giphy.com/media/ggtpYV17RP9lTbc542/giphy.gif" width="300" height="300" />  |  ![Headstone Image](https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/bf5f1f07ed1242386322cdefa49b76589c390b3f/deer.jpg)
-  
+ 
+![alt-text-1]("https://media.giphy.com/media/ggtpYV17RP9lTbc542/giphy.gif" width="300" height="300") ![alt-text-2](https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/bf5f1f07ed1242386322cdefa49b76589c390b3f/deer.jpg)
+ 
 # Final Milestone
 My final milestone is the implemention of a few object detection model. I used a TensorFlow Lite Model Maker google colab notebook to help guide me upload a object detection dataset and split it into training and testing data. I was able to set up my dataset finding images ont he internet and drawing boxes with labels around the object I want to detect for the computer to recognize. I used and imported the TensorFlow Lite library which makes training and testing a model much easier with only a few lines of code.
 
