@@ -10,6 +10,31 @@ I am using Raspberry Pi to identify objects through video, webcam, and images. I
 # Final Milestone
 My final milestone is the implemention of a few object detection model. I used a TensorFlow Lite Model Maker google colab notebook to help guide me upload a object detection dataset and split it into training and testing data. I was able to set up my dataset finding images ont he internet and drawing boxes with labels around the object I want to detect for the computer to recognize. I used and imported the TensorFlow Lite library which makes training and testing a model much easier with only a few lines of code.
 
+```
+import numpy as np
+import os
+
+from tflite_model_maker.config import ExportFormat
+from tflite_model_maker import model_spec
+from tflite_model_maker import object_detector
+
+import tensorflow as tf
+assert tf.__version__.startswith('2')
+
+tf.get_logger().setLevel('ERROR')
+from absl import logging
+logging.set_verbosity(logging.ERROR)
+
+spec = model_spec.get('efficientdet_lite2')
+
+train_data = object_detector.DataLoader.from_pascal_voc(
+    tfrecord_file_patten, size, label_map, annotations_json_file=None
+)
+validation_data = object_detector.DataLoader.from_pascal_voc(
+    tfrecord_file_patten, size, label_map, annotations_json_file=None
+)
+```
+
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
