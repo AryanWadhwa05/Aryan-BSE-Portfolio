@@ -1,5 +1,5 @@
 ﻿# Raspberry Pi Object Recognition
-I am using Raspberry Pi to identify objects through video, webcam, and images. I used TensorFlow Lite to train my Object Detection models
+I am using Raspberry Pi to identify objects through video, webcam, and images. I used TensorFlow Lite to train and run my Object Detection models on the raspberry pi. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -8,12 +8,12 @@ I am using Raspberry Pi to identify objects through video, webcam, and images. I
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is the implemention of a few object detection model. I used a TensorFlow Lite Model Maker google colab notebook to help guide me upload a object detection dataset and split it into training and testing data. I was able to set up my dataset
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
 
 # Second Milestone
-My second milestone is detecting object on my Raspberry Pi. I installed mutiple libraries such as TensorFlow and OpenCV to test a TensorFlow Lite pre-trained model on my Raspberry Pi. I downloaded the pre-trained model as detect.tflite from the official Tensor Flow github. I was able to use VNC Viewer to quickly import test images and videos. After that, I was able to run my tflite and Labels file to detect people through my Raspberry Pi camera. I was also able to detect birds and deer through random google images.
+My second milestone is detecting object on my Raspberry Pi. I installed mutiple libraries such as TensorFlow and OpenCV to test a TensorFlow Lite pre-trained model on my Raspberry Pi. I downloaded the pre-trained model as detect.tflite from the official Tensor Flow github. I was able to use VNC Viewer to quickly import test images and videos. After that, I was able to run my tflite and Labels file to detect people through my Raspberry Pi camera. I was also able to detect birds and deer through google images.
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
 # First Milestone
