@@ -5,7 +5,7 @@ I am using Raspberry Pi to identify objects through video, webcam, and images. I
 |:--:|:--:|:--:|:--:|
 | Aryan | Greenwich High School | Electrical Engineering / Computer Science | Incoming Junior
 
-Solarized dark             |  Solarized Ocean
+TFLite model             |  My Custom Model
 :-------------------------:|:-------------------------:
 <img src=https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/5a6b2576ae07f4cc13a81243740414c937cad8c3/squirrelssample.JPG width="1200" height="300" />  |  <img src=https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/5bd5903d4b4e868f8a7a6c4a62265d900ca3432e/Capture.JPG width="1200" height="300" />
  
