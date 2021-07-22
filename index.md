@@ -10,12 +10,12 @@ I am using Raspberry Pi to identify objects through video, webcam, and images. I
 # Final Milestone
 My final milestone is the implemention of a few object detection model. I used a TensorFlow Lite Model Maker google colab notebook to help guide me upload a object detection dataset and split it into training and testing data. I was able to set up my dataset finding images ont he internet and drawing boxes with labels around the object I want to detect for the computer to recognize. I used and imported the TensorFlow Lite library which makes training and testing a model much easier with only a few lines of code.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone is detecting object on my Raspberry Pi. I installed mutiple libraries such as TensorFlow and OpenCV to test a TensorFlow Lite pre-trained model on my Raspberry Pi. I downloaded the pre-trained model as detect.tflite from the official Tensor Flow github. I was able to use VNC Viewer to quickly import test images and videos. After that, I was able to run my tflite and Labels file to detect people through my Raspberry Pi camera. I was also able to detect birds and deer through google images.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
+[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
