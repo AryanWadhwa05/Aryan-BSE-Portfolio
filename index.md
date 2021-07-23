@@ -54,7 +54,7 @@ validation_data = object_detector.DataLoader.from_pascal_voc(
 )
 ```
 
-<iframe width="850" height="425" src="https://www.youtube.com/embed/fz4buVoNy_0" title="Final Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="830" height="425" src="https://www.youtube.com/embed/fz4buVoNy_0" title="Final Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
 
@@ -62,10 +62,10 @@ My second milestone is detecting object on my Raspberry Pi. I installed mutiple 
 
 ![Second Milestone Diagram](https://neuralet.com/wp-content/uploads/2020/09/quantization-edge-tpu.png)
 
-<iframe width="850" height="425" src="https://www.youtube.com/embed/hrIigh1v1lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="830" height="425" src="https://www.youtube.com/embed/hrIigh1v1lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # First Milestone
 
 My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my monitor/pc. The heatsinks, the sd card, and the nessecary cables were all added to ensure that the Raspberry Pi was working. I downloaded Raspberry Pi imager directly from the official Raspberry Pi website. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspberry Pi OS supported by the Raspberry Pi. The imager allowed me to image Raspian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi, connected my HDMI cable and rebooted the system until Raspian booted up. I then enabled VNC on the Raspberry Pi so that I was able to use VNC Viewer on my desktop to work on my Raspberry Pi.
 
-<iframe width="850" height="425" src="https://www.youtube.com/embed/D26gl5HK1hM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="830" height="425" src="https://www.youtube.com/embed/D26gl5HK1hM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
