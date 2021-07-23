@@ -47,7 +47,7 @@ validation_data = object_detector.DataLoader.from_pascal_voc(
 # Second Milestone
 My second milestone is detecting object on my Raspberry Pi. I installed mutiple libraries such as TensorFlow and OpenCV to test a TensorFlow Lite pre-trained model on my Raspberry Pi. I downloaded the pre-trained model as detect.tflite from the official Tensor Flow github. I was able to use VNC Viewer to quickly import test images and videos. After that, I was able to run my tflite and Labels file to detect people through my Raspberry Pi camera. I was also able to detect birds and deer through google images.
 
-[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/hrIigh1v1lc "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone]](https://youtu.be/hrIigh1v1lc "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
