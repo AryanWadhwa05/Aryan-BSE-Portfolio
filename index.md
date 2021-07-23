@@ -42,14 +42,15 @@ validation_data = object_detector.DataLoader.from_pascal_voc(
 )
 ```
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://youtu.be/fz4buVoNy_0 "Final Milestone")
+[![Final Milestone](https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/gh-pages/milestone3picture.jpg?raw=true)](https://youtu.be/fz4buVoNy_0)
 
 # Second Milestone
+
 My second milestone is detecting object on my Raspberry Pi. I installed mutiple libraries such as TensorFlow and OpenCV to test a TensorFlow Lite pre-trained model on my Raspberry Pi. I downloaded the pre-trained model as detect.tflite from the official Tensor Flow github. I was able to use VNC Viewer to quickly import test images and videos. After that, I was able to run my tflite and Labels file to detect people through my Raspberry Pi camera. I was also able to detect birds and deer through google images.
 
 [![Second Milestone](https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/gh-pages/milestone2picture.jpg?raw=true)](https://youtu.be/hrIigh1v1lc)
+
 # First Milestone
-  
 
 My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my monitor/pc. The heatsinks, the sd card, and the nessecary cables were all added to ensure that the Raspberry Pi was working. I downloaded Raspberry Pi imager directly from the official Raspberry Pi website. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspberry Pi OS supported by the Raspberry Pi. The imager allowed me to image Raspian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi, connected my HDMI cable and rebooted the system until Raspian booted up. I then enabled VNC on the Raspberry Pi so that I was able to use VNC Viewer on my desktop to work on my Raspberry Pi.
 
