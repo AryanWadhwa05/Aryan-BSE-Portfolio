@@ -60,6 +60,8 @@ validation_data = object_detector.DataLoader.from_pascal_voc(
 
 My second milestone is detecting object on my Raspberry Pi. I installed mutiple libraries such as TensorFlow and OpenCV to test a TensorFlow Lite pre-trained model on my Raspberry Pi. I downloaded the pre-trained model as detect.tflite from the official Tensor Flow github. I was able to use VNC Viewer to quickly import test images and videos. After that, I was able to run my tflite and Labels file to detect people through my Raspberry Pi camera. I was also able to detect birds and deer through google images.
 
+[![Second Milestone DIagram](https://neuralet.com/wp-content/uploads/2020/09/quantization-edge-tpu.png)
+
 [![Second Milestone](https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/gh-pages/milestone2picture.jpg?raw=true)](https://youtu.be/hrIigh1v1lc)
 
 # First Milestone
