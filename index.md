@@ -56,7 +56,7 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 <!-- [![First Milestone](https://lh3.googleusercontent.com/_wXwEU_F7sD78GYUe3O10PFZT3KfQwlManW24Yry6f9qG1YOVGnXoQ_58HoHlZ0B52P2z9S0FUo4ljk_2jq7uXyZkdhS72_wa2u3nbErj24j2HHZIp3wLFOxYcO4dMDi7QHTINaOyfvGJIrzyIRi25WFqjORsZOPBnIFwsaPddwcpn4PuWjDnMY8T1sXnMW6s1zdZ1R5QkCA2kZMvkCehWWjFve5MqrATHEoTVgxWWztRxEl11yBWDBToLYloagKDmBKrVr1EPhmdZx-bPXspOizgif5W1idTJxjyzB7prHZbR93Fo8t_Ai38gT6-v0OeOpnyE4B0jTyOpWzNgSTOttEePApznpGbnyLR7tXEG8JxVe98xDZf7FtPm4CiTlNoc3U_MzOkuqsXrRoIX1rIzsJO9u3F7yRtzetYABL_6_r33gFzz8H-RDNWBIohgGov5B36UNsC3AhAdy8AJjEbmoNE2TnaA3rBSd-Mw35J9vXJgFqDLJgMcaAITnbYQZA5elns8hxGarB6FbgEidvdoNZc15kmziOizZg6vRaka95eK-5BZvC9w-ND_lpsTsejhtAYcsYeYM7FvAyCSG1j7-WM6cP3QyPy9LtWKop5ur5xiuT17YC4ltJtmrs03SZQVz3plcxveE-msugzLZjoTlJmrjEUK4dHtNcx0170GOrmkzusvOS13g8hty8sKzsByKGgBmAo5Bu9jbj42pS--PU=w1292-h970-no?authuser=0)](https://youtu.be/D26gl5HK1hM "First Milestone") -->
 
-[![First Milestone](https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/gh-pages/milestone1picture.jpg?raw=true)](https://youtu.be/D26gl5HK1hM)
+[![First Milestone](https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/gh-pages/milestone1picture.jpg?raw=true)](https://youtu.be/D26gl5HK1hM width="500" length = "400")
 
 
 
